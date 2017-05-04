@@ -1,2 +1,3 @@
 a text
 New text inside
+Function divide
