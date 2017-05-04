@@ -2,5 +2,5 @@ a text
 New text inside
 Function divide
 Function add
-New line
+New lsine
 To add a comment
