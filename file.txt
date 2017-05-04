@@ -5,3 +5,5 @@ Function add
 New lines
 To add a comment
 New line add to branch trainingKris to train my self
+Add function multiply
+
