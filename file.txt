@@ -2,3 +2,5 @@ a text
 New text inside
 Function divide
 Function add
+New line
+To add a comment
