@@ -1,9 +1,0 @@
-a text
-New text inside
-Function divide
-Function add
-New line
-To add a comment
-New line add to branch trainingKris to train my self
-Add function multiply
-
