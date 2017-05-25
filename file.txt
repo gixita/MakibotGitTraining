@@ -1,0 +1,7 @@
+Test d'un nouveau fichier
+
+fonction addition()
+(
+
+return x+y
+)
