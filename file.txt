@@ -1,7 +1,6 @@
 Test d'un nouveau fichier
 
-fonction addition()
+fonction addition(int x, int y)
 (
-
 return x+y
 )
