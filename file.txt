@@ -2,5 +2,5 @@ Test d'un nouveau fichier
 
 fonction addition(double x, double y)
 (
-return x+y
+return x+y;
 )
